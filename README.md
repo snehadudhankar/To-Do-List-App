@@ -4,7 +4,7 @@
   <li>☑ Add a Task</li>
   <li>☑ Mark the tasks as complited</li>
  <li>☑ seprated section to view complited to do's </li>
- <li> ☑ Option to edit and delete to-do's<li>
+ <li> ☑ Option to edit and delete to-do's</li>
  <li> ☑ Local storage To store To-do's List</li>
   </ul>
   
